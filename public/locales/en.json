@@ -1,0 +1,27 @@
+{
+  "common": {
+    "welcome": "Welcome, ",
+    "titles": {
+      "market": "Markets",
+      "available_tokens": "Available Tokens",
+      "balance": "Your Balance",
+      "portfolio": "your portfolio",
+      "releases": "Releases"
+    },
+    "menu": {
+      "nftTokens": "NFT Tokens",
+      "receivables": "Receivables",
+      "humanTokens": "Human Tokens",
+      "realState": "Real State",
+      "favorites": "Favorites",
+      "all": "All",
+      "collections": "NFT Collections",
+      "games": "NFT Games",
+      "search": "Search for tokens",
+      "withdraw": "Withdraw",
+      "deposit": "Deposit",
+      "seeFull": "See full",
+      "seeAll": "See all"
+    }
+  }
+}
