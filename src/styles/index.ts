@@ -118,6 +118,8 @@ export const HomeContent = styled.main`
         img {
           padding: 0;
           margin: 0;
+          height: 100%;
+          width: auto;
           border-top-left-radius: 8px;
           border-top-right-radius: 8px;
         }
