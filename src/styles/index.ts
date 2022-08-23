@@ -114,6 +114,12 @@ export const HomeContent = styled.main`
     div.card {
       display: flex;
       flex-direction: column;
+      cursor: pointer;
+
+      :hover {
+        opacity: 0.8;
+      }
+
       div.image {
         img {
           padding: 0;
